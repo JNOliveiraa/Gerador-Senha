@@ -1,0 +1,2 @@
+ola! Este texto foi gravado pelo python.
+isso significa que funcionou direitinho!
